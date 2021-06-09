@@ -3,3 +3,7 @@
      background-size: cover;
      background-repeat: no-repeat;
  }
+ p{
+     font-size: x-large;
+     font-style: inherit;
+ }
