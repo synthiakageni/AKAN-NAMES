@@ -19,7 +19,7 @@ There are no known bugs
 ## Technologies Used
 * html
 * css
-JavaScript
+* JavaScript
 ## Support and contact details
 synthiakageni@gmail.com
 ### License
