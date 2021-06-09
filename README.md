@@ -1,23 +1,25 @@
-## MY PORTFOLIO
+## AKAN NAMES
 #### Author: **synthia kageni**
 ## Description
-This is my first project at Moringa school.It is my porfolio landing page.
+This is an application that takes a user's a birthday,calculates the day of the week they were born and depending on their gender,outputs their Akan name.
 ## Setup/Installation Requirements
 To run the app in your machine or server,use the following steps:
 ### prerequisite
 1.A text editor preferably visual studio code.
-*  git clone the repo git clone https://github.com/synthiakageni/PORTFOLIO-PAGE.git
-*  cd PORTFOLIO & code .
-## [Live link]( https://synthiakageni.github.io/PORTFOLIO-PAGE/)
+*  git clone the repo git clone https://github.com/synthiakageni/AKAN-NAMES
+*  cd "AKAN NAMES" 
+*  code .
+## [Live link]()
 ## Known Bugs
 There are no known bugs
 ## features:
-* About me section
-* My hobbies
-* List of previous projects
+* Application Description
+* Data entry form
+* A submit button
 ## Technologies Used
 * html
 * css
+JavaScript
 ## Support and contact details
 synthiakageni@gmail.com
 ### License
