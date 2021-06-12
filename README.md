@@ -1,5 +1,6 @@
-## AKAN NAMES
-#### Author: **synthia kageni**
+# AKAN NAMES
+#### Author 
+<a href="https://github.com/synthiakageni"> SYNTHIA KAGENI</a>
 ## Description
 This is an application that takes a user's a birthday,calculates the day of the week they were born and depending on their gender,outputs their Akan name.
 ## Setup/Installation Requirements
