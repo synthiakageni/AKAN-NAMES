@@ -10,7 +10,7 @@ To run the app in your machine or server,use the following steps:
 *  git clone the repo git clone https://github.com/synthiakageni/AKAN-NAMES
 *  cd "AKAN NAMES" 
 *  code .
-## [Live link]()
+## [Live link](https://synthiakageni.github.io/AKAN-NAMES/ )
 ## Known Bugs
 There are no known bugs
 ## features:
